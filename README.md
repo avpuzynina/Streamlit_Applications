@@ -1,6 +1,6 @@
 # Streamlit_Applications
 
-В данном репозитории находится приложения на платформе Streamlit
+В данном репозитории находятся приложения на платформе Streamlit
 
 -  [Приложение котировок компании Apple](https://github.com/avpuzynina/Streamlit_Applications/tree/main/My_app_Streamlit)
 
